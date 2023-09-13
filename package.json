@@ -1,0 +1,23 @@
+{
+  "name": "svelte-reveal",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --plugin-search-dir . --write ."
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "prettier": "^2.8.3",
+    "prettier-plugin-svelte": "^2.9.0",
+    "svelte": "^3.49.0",
+    "vercel": "^28.13.2",
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "reveal.js": "^4.3.1"
+  }
+}
