@@ -20,5 +20,5 @@ check:
 clean:
 	{{CC}} clean
 
-deply:
-	@echo "I do not know how to deploy this stuff"
+deploy:
+	{{CC}} x vercel --prod

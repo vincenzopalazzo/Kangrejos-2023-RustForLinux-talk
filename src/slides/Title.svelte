@@ -3,7 +3,7 @@
 
 <section>
   <section>
-    <h3>Title of the presentation 🦀</h3>
+    <h3>Procedural Macro in the Linux Kernel 🦀</h3>
     <img
       src="https://avatars.githubusercontent.com/u/17150045?v=4"
       width="120"
@@ -16,14 +16,7 @@
     >
 
     <div align="center">
-      <p><small> Date x.x.x</small></p>
+      <p><small> Spain 17-09-2023 </small></p>
     </div>
-  </section>
-
-  <section>
-    <h3>Overview</h3>
-    <ul>
-      <li> 🦕</li>
-    </ul>
   </section>
 </section>
